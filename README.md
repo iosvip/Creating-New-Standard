@@ -1,2 +1,1 @@
-# Creating-New-Standard
-Fit&amp;Beat repository 
+# Fit&amp;Beat token contract
